@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title">Trivia</string>
+    <string name="true_title">True</string>
+    <string name="false_title">False</string>
+    <string name="previous_button">previous button</string>
+    <string name="next_button">next button</string>
+    <string name="counter_questions">0 out of 100</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Wrong</string>
+    <string name="currentscore_text">Current Score: 0</string>
+    <string name="HighestScore_text">Highest Score: 0</string>
+    <string name="questionstext">Goona add questions here</string>
+    <string name="restart">Restart</string>
+
+</resources>
